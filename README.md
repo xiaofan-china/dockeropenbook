@@ -1,4 +1,2 @@
-dockeropenbook
-==============
-
 Docker Open Book
+==============
