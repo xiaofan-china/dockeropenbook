@@ -12,3 +12,5 @@
 ## 第四部分：基于 Docker 的开源和商业项目
 
 ## 附录
+
+- 附录 A：[https://github.com/genedna/dockeropenbook/blob/master/appendix-a.md](Docker 相关项目和产品目录)
