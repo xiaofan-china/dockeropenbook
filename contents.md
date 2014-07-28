@@ -13,4 +13,4 @@
 
 ## 附录
 
-- 附录 A：[Docker 相关项目和产品目录](https://github.com/genedna/dockeropenbook/blob/master/appendix-a.md)
+- 附录 A：[Docker 相关项目和产品](https://github.com/genedna/dockeropenbook/blob/master/appendix-a.md)
