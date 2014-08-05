@@ -99,18 +99,8 @@
 - Libchan
 - Docker Registry
 
-## 第七部分：基于 Docker 的第三方项目
-
-- CoreOS
-- Kubernetes
-- Drone
-- Tsuru
-- Octohost
-- Deis
-- Flynn
-- Dokku
-
 ## 附录
 
-- 附录 A：[Docker 相关项目和产品](https://github.com/genedna/dockeropenbook/blob/master/appendix-a.md)
-- 附录 B：[参考文章列表]()
+- 附录 A: [中英文名词]()
+- 附录 B：[Docker 相关项目和产品](https://github.com/genedna/dockeropenbook/blob/master/appendix-a.md)
+- 附录 C：[参考文章列表]()
