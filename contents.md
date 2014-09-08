@@ -93,7 +93,8 @@
 ## 第六部分：Docker 和 Docker Registry 源代码分析
 
 - Docker
-  - 编译 Docker
+  - 构建 Docker 编译环境
+  - [构建 Docker 分支版本编译环境](https://github.com/genedna/dockeropenbook/blob/master/how-to-prepare-docker-development-environment.md)
 - Libcontainer
 - Libswarm
 - Libchan
